@@ -33,11 +33,6 @@ A comprehensive guide to Amazon Elastic Container Service (ECS) for developers s
    ↓
 ✅ SUCCESS!
 ```
-
-### Detailed Visual Flowchart
-
-For a more detailed visual representation, check out the [ECS Deployment Workflow Chart](./ecs-workflow-chart.svg).
-
 ### Phase Breakdown
 
 | Phase | Steps | Description |
