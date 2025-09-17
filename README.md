@@ -2,6 +2,10 @@
 
 A comprehensive guide to Amazon Elastic Container Service (ECS) for developers starting their AWS journey.
 
+## 📊 Visual Workflow
+
+Before diving into the details, check out the [ECS Deployment Workflow Chart](./ecs-workflow-chart.svg) for a visual overview of the entire process.
+
 ## Table of Contents
 
 1. [What is AWS ECS?](#what-is-aws-ecs)
